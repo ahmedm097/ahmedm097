@@ -1,6 +1,6 @@
 # Hi 👋 I am Mohammed Ahmed.
 
-![banner] ![Black Modern Personal LinkedIn Banner](https://user-images.githubusercontent.com/60136666/159987291-34565715-b1e8-4370-a77a-3edc21aad62b.png)
+![Black Modern Personal LinkedIn Banner](https://user-images.githubusercontent.com/60136666/159987291-34565715-b1e8-4370-a77a-3edc21aad62b.png)
 
 - I’m a Developer with a BSc in Computer Science @York University, Toronto Canada.
 - I’m interested in Web development, blockchain, programming, DSA 
@@ -43,7 +43,7 @@ Connect with me on LinkedIn : ???
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ahmedm097&count_private=true&theme=react&showicons=true)]() 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedm097&langs_count=5&theme=react)]()  
-[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ahmedm097)](https://github.com/ahmedm097/github-contribution-stats/)
+[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=anuj4you)](https://github.com/anuj4you/github-contribution-stats/)
 
 
 
