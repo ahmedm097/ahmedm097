@@ -19,6 +19,9 @@ Connect with me on LinkedIn : ???
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -36,6 +39,8 @@ Connect with me on LinkedIn : ???
 ![Name](https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)
 ![Name](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+
 
 
 
@@ -43,12 +48,7 @@ Connect with me on LinkedIn : ???
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ahmedm097&count_private=true&theme=react&showicons=true)]() 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedm097&langs_count=5&theme=react)]()  
-[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=anuj4you)](https://github.com/anuj4you/github-contribution-stats/)
+[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ahmedm097)](https://github.com/ahmedm097/github-contribution-stats/)
 
 
-
-<!---
-anuj4you/anuj4you is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
