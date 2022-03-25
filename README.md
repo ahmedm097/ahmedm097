@@ -1,6 +1,6 @@
 # Hi 👋 I am Mohammed Ahmed.
 
-![Black Modern Personal LinkedIn Banner](https://user-images.githubusercontent.com/60136666/159987291-34565715-b1e8-4370-a77a-3edc21aad62b.png)
+![Black Modern Personal LinkedIn Banner (1)](https://user-images.githubusercontent.com/60136666/160201273-8061d56b-59e3-4661-a152-0d81300fbfd0.png)
 
 - I’m a Developer with a BSc in Computer Science @York University, Toronto Canada.
 - I’m interested in Web development, blockchain, programming, DSA 
