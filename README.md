@@ -2,7 +2,7 @@
 
 ![Black Modern Personal LinkedIn Banner (1)](https://user-images.githubusercontent.com/60136666/160201273-8061d56b-59e3-4661-a152-0d81300fbfd0.png)
 
-- I’m a Developer with a BSc in Computer Science @York University, Toronto Canada.
+- I’m a Software Developer with a B.Sc. in Computer Science @York University, Toronto Canada.
 - I’m interested in Web development, blockchain, programming, DSA 
 - I’m currently learning Flutter & Angular framework and working on Flutter & JavaScript projects.
 
