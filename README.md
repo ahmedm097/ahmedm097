@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: mohammed.ahmed1997@icloud.com
 
-Connect with me on LinkedIn : https://www.linkedin.com/in/mohammed-ahmed-9ba729235/
+Connect with me on LinkedIn : https://www.linkedin.com/in/mohammed-aahmed/
 
 
 ## Languages and Tools 👩‍💻
