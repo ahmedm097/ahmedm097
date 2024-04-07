@@ -4,7 +4,7 @@
 
 - I’m a Software Developer with a B.Sc. in Computer Science @York University, Toronto Canada.
 - I’m interested in Web development, blockchain, programming, DSA 
-- I’m currently learning Flutter and working on Flutter projects.
+- I’m currently learning AI and Machine Learning.
 
 - 📫 How to reach me: mohammed.ahmed1997@icloud.com
 
