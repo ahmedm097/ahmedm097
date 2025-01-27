@@ -3,7 +3,7 @@
 ![Black Modern Personal LinkedIn Banner (1)](https://user-images.githubusercontent.com/60136666/160201273-8061d56b-59e3-4661-a152-0d81300fbfd0.png)
 
 - I’m a Software Developer with a B.Sc. in Computer Science @York University, Toronto Canada.
-- I’m interested in Web development, blockchain, programming, DSA 
+- I’m currently interested in Web development and AI
 - I’m currently learning AI and Machine Learning.
 
 - 📫 How to reach me: mohammed.ahmed1997@icloud.com
